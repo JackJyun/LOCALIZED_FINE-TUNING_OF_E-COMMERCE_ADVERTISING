@@ -1,0 +1,36 @@
+{
+  "material": {
+    "gif": 0,
+    "jpg": 1,
+    "swf": 2
+  },
+  "placement": {
+    "banner": 0,
+    "sub-banner": 1,
+    "tips": 2,
+    "uncertained": 3
+  },
+  "payment": {
+    "cpc": 0,
+    "cpd": 1,
+    "cpm": 2,
+    "roi": 3
+  },
+  "size": {
+    "140*40": 0,
+    "308*388": 1,
+    "450*300": 2,
+    "480*360": 3,
+    "600*90": 4,
+    "900*120": 5,
+    "960*126": 6
+  },
+  "sellingpoint": {
+    "Cash/Coupon-Back": 0,
+    "Discount": 1,
+    "Flash Sale": 2,
+    "Gift with Purchase": 3,
+    "Price Drop": 4,
+    "Spend & Save": 5
+  }
+}
